@@ -1,0 +1,54 @@
+.outstories_container
+{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.outstories_row
+{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-bottom: 50px;
+}
+.outstories_col
+{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.ourstories_head{
+    text-align: center;
+    padding-top: 50px;
+    color: black;
+    padding-bottom: 50px;
+    font-family: 'Ubuntu';
+}
+
+.card_text{
+    color: black;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-family: 'Ubuntu';
+}
+
+.button{
+    margin-top: 0px;
+    font-family: 'Ubuntu';
+    font-size: 15px;
+    background-color: black;
+    border-color: black;
+}
+
+.actual_ct{
+    margin-bottom: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .card_text{
+        margin-bottom: 25px;
+    }
+  }

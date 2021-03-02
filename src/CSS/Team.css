@@ -1,0 +1,191 @@
+*{
+  box-sizing: border-box;
+}
+
+html,
+body,
+{/* #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+*/}
+
+
+
+
+
+
+
+
+.our-team {
+  padding: 30px 0 40px;
+  margin-bottom: 30px;
+
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+  margin-left: 30px;
+  margin-right: 30px;
+  /* background-image: url("v3.gif");*/
+
+  /*border-radius: 10px;*/
+
+}
+
+.our-team .picture {
+  display: inline-block;
+  height: 180px;
+  width: 180px;
+  margin-bottom: 10px;
+  z-index: 1;
+  position: relative;
+
+  border-radius: 50%;/* boder radius pehele ka*/
+  background-color:  #a4161a; /* boder radius pehele ka*/
+
+}
+
+.our-team .picture::before {
+  content: "";
+  width: 100%;
+  height: 0;
+  border-radius: 50%;
+  /* background-color: #1369ce;*/
+  position: absolute;
+  bottom: 135%;
+  right: 0;
+  left: 0;
+  opacity: 0.9;
+  transform: scale(3);
+  transition: all 0.3s linear 0s;
+}
+
+.our-team:hover .picture::before {
+  height: 100%;
+}
+
+.our-team .picture::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-color:  #a4161a;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  box-shadow: #a4161a 0px 20px 30px -10px;
+  /* box-shadow:  rgb(255, 255, 255)0px 3px 8px, rgb(234, 234, 234) 0px 0px 0px 5px; */
+
+}
+
+.our-team .picture img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  transform: scale(1);
+  transition: all 0.9s ease 0s;
+}
+
+.our-team:hover .picture img {
+  box-shadow: 0 0 0 14px #f7f5ec;
+  transform: scale(0.7);
+}
+
+.our-team .title {
+  display: block;
+  font-size: 15px;
+  color: white;
+  text-transform: capitalize;
+  font-family: 'Ubuntu';
+}
+
+.our-team .social {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color:  #a4161a;
+  position: absolute;
+  bottom: -100px;
+  left: 0;
+  transition: all 0.5s ease 0s;
+  padding-top: 10px;
+  border-radius: 10px; /*nfnfn*/
+}
+
+.our-team:hover .social {
+  bottom: 0;
+}
+
+.our-team .social li {
+  display: inline-block;
+}
+
+.our-team .social li a {
+  display: block;
+  padding: 10px;
+  font-size: 17px;
+  color: white;
+  transition: all 0.3s ease 0s;
+  text-decoration: none;
+
+}
+
+.our-team .social li a:hover {
+  color: #a4161a;
+  background-color: #f7f5ec;
+  border-radius: 50%;
+}
+
+#vantajs {
+width: auto; height: 100%; margin-bottom: 10px;
+}
+
+.name{
+  color: whitesmoke;
+  font-family: 'Ubuntu';
+
+}
+
+.head{
+  font-family:'Ubuntu';
+  color: white;
+  font-size:6vw;
+}
+.head2{
+  font-family:'Ubuntu';
+  color: white;
+  font-size:2vw;
+}
+
+
+
+.navitem{
+  color:"black";
+  font-family:"Raleway";
+  padding-left:8px;
+  padding-right:8px;
+  margin-left: 8px;
+  color: black;
+  font-weight: bold;
+
+}
+
+div >a:hover{
+  color: #a4161a;
+  text-decoration: none;
+}
+
+div >a{
+  color: black;
+  font-weight: 500;
+}

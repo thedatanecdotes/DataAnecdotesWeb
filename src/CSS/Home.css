@@ -1,0 +1,122 @@
+.why_da{
+    text-align: center;
+    justify-content: center;
+}
+
+.tda{
+    text-align: center;
+    font-family:"Raleway";
+    font-size: 3vw;
+    font-weight: bold;
+}
+
+.tda_heading{
+    text-align:center;
+    font-family:"Raleway";
+    font-size:1vw;
+    font-weight:bold;
+    color:red;
+}
+.why{
+    padding-top: 15rem;
+}
+.check{
+    margin-left: 11rem;
+    padding-top: 4rem;
+}
+.checks2{
+    margin-left: 10rem;
+}
+.yo{
+    font-family:"Ubuntu";
+    text-align:center;
+    font-weight:bold;
+    font-size: 2vw;
+    color:red;
+}
+
+.media{
+    font-family:"Ubuntu";
+    text-align:center;
+    font-weight:bold;
+    color:black;
+    font-size: 1vw;
+}
+
+.psb{
+    padding-top: 15rem;
+}
+
+.proj
+{
+    font-family:"Ubuntu";
+    font-size:1vw;
+    font-weight:bold;
+    text-align: center;
+}
+
+.what-we-do{
+    padding-top: 15rem;
+}
+
+@media only screen and (max-width: 720px) {
+    .tda{
+        text-align: center;
+        font-family:"Raleway";
+        font-size: 7vw;
+        font-weight: bold;
+    }
+
+    .tda_heading{
+        text-align:center;
+        font-family:"Raleway";
+        font-size:3.5vw;
+        font-weight:bold;
+        color:red;
+    }
+    .why{
+        padding-top: 0rem;
+    }
+    .check{
+        margin-left: 0em;
+        padding-top: 0rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+    }
+    .checks2{
+        margin-left: 4em;
+        padding-left: 10rem;
+        padding-right: 0rem;
+    }
+    .yo{
+        font-family:"Ubuntu";
+        text-align:center;
+        font-weight:bold;
+        color:red;
+        font-size:4vw;
+    }
+
+    .media{
+        font-family:"Ubuntu";
+        text-align:center;
+        font-weight:bold;
+        color:black;
+        font-size:4vw;
+    }
+    .psb{
+        padding-top: 0rem;
+    }
+    .proj
+    {
+        font-family:"Ubuntu";
+        font-size:4vw;
+        font-weight:bold;
+        text-align: center;
+    }
+    .what-we-do{
+        padding-top: 0rem;
+    }
+    .cardf{
+        padding-bottom: 2em;
+    }
+  }

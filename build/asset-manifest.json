@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55af4fb3.chunk.css",
+    "main.js": "/static/js/main.8015f1a6.chunk.js",
+    "main.js.map": "/static/js/main.8015f1a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4d749d71.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4d749d71.js.map",
+    "static/css/2.a4da4ac4.chunk.css": "/static/css/2.a4da4ac4.chunk.css",
+    "static/js/2.ce83f844.chunk.js": "/static/js/2.ce83f844.chunk.js",
+    "static/js/2.ce83f844.chunk.js.map": "/static/js/2.ce83f844.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a4da4ac4.chunk.css.map": "/static/css/2.a4da4ac4.chunk.css.map",
+    "static/css/main.55af4fb3.chunk.css.map": "/static/css/main.55af4fb3.chunk.css.map",
+    "static/js/2.ce83f844.chunk.js.LICENSE.txt": "/static/js/2.ce83f844.chunk.js.LICENSE.txt",
+    "static/media/Anusri.ae60331d.jpeg": "/static/media/Anusri.ae60331d.jpeg",
+    "static/media/Kabir.55c7fe0a.jpeg": "/static/media/Kabir.55c7fe0a.jpeg",
+    "static/media/Kriti.79f124e2.jpeg": "/static/media/Kriti.79f124e2.jpeg",
+    "static/media/Logos.ae3c8eb1.png": "/static/media/Logos.ae3c8eb1.png",
+    "static/media/Purbasha.3af865d4.jpg": "/static/media/Purbasha.3af865d4.jpg",
+    "static/media/Search.a08375b3.mp4": "/static/media/Search.a08375b3.mp4",
+    "static/media/Sloth Illustration.ac0640ce.jpg": "/static/media/Sloth Illustration.ac0640ce.jpg",
+    "static/media/Tarushi.e8b8d863.jpg": "/static/media/Tarushi.e8b8d863.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d749d71.js",
+    "static/css/2.a4da4ac4.chunk.css",
+    "static/js/2.ce83f844.chunk.js",
+    "static/css/main.55af4fb3.chunk.css",
+    "static/js/main.8015f1a6.chunk.js"
+  ]
+}
