@@ -18,10 +18,10 @@
     color:red;
 }
 .why{
-    padding-top: 15rem;
+    padding-top: 8rem;
 }
 .check{
-    margin-left: 11rem;
+    margin-left: 5rem;
     padding-top: 4rem;
 }
 .checks2{
@@ -44,7 +44,7 @@
 }
 
 .psb{
-    padding-top: 15rem;
+    padding-top: 5rem;
 }
 
 .proj
@@ -56,7 +56,7 @@
 }
 
 .what-we-do{
-    padding-top: 15rem;
+    padding-top: 8rem;
 }
 
 @media only screen and (max-width: 720px) {
@@ -84,9 +84,9 @@
         padding-left: 2rem;
     }
     .checks2{
-        margin-left: 4em;
-        padding-left: 10rem;
-        padding-right: 0rem;
+        margin-left: 4rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
     }
     .yo{
         font-family:"Ubuntu";

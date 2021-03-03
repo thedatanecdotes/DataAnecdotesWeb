@@ -45,8 +45,15 @@
 .actual_ct{
     margin-bottom: 0px;
 }
+.pandemic{
+    font-size: 25px;
+}
 
 @media only screen and (max-width: 600px) {
+    .pandemic{
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
 
     .card_text{
         margin-bottom: 25px;

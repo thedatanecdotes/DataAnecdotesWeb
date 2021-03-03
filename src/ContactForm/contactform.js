@@ -1,7 +1,6 @@
 import React from "react";
 import '../CSS/ContactForm.css';
 import Footer from "../StorySection/Footer";
-import BIRDS from 'vanta/dist/vanta.net.min'
 import emailjs from 'emailjs-com';
 import Navbarteam from "../NavBar";
 import  BackgroundParticle from '../background';

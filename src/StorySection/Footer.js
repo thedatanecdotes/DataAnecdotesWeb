@@ -18,8 +18,8 @@ function Footer() {
             <Col sm={4} className="my-foot">
                     <Link to="/"><Row style={{fontFamily:"Ubuntu",color:"white",paddingTop:"0.5vw"}}>Home</Row></Link>
                     <Link to="/Stories"><Row style={{paddingTop:"1vw",fontFamily:"Ubuntu",color:"white"}}>Stories</Row></Link>
-                    <Link to="/Our Team"><Row style={{paddingTop:"1vw",fontFamily:"Ubuntu",color:"white"}}>Our Team</Row> </Link>
-                    <Link to="/Contact Us"><Row style={{paddingTop:"1vw",fontFamily:"Ubuntu",color:"white"}}>Contact Us</Row></Link>
+                    <Link to="/OurTeam"><Row style={{paddingTop:"1vw",fontFamily:"Ubuntu",color:"white"}}>Our Team</Row> </Link>
+                    <Link to="/ContactUs"><Row style={{paddingTop:"1vw",fontFamily:"Ubuntu",color:"white"}}>Contact Us</Row></Link>
                 
             </Col>
         <Col sm={4} className="icon-foot">

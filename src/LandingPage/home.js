@@ -7,7 +7,6 @@ import Button from 'react-bootstrap/Button'
 import Col from 'react-bootstrap/Col';
 import Menu from "./Menu"
 import Sloth from "../Images/Sloth Illustration.jpg"
-import Search from "../Images/Search.mp4"
 import Flippy, { FrontSide, BackSide } from 'react-flippy'
 import {Link} from "react-router-dom";
 import Footer from "../StorySection/Footer";
@@ -45,9 +44,6 @@ function Home()
                     <br/>
                     <br/>
                     <br/>
-                    <br/>
-                    <br/>
-                    <br/>  
                     <Jumbotron fluid>
                         <Container>
                             <p className ="tda">THE  DATA  ANECDOTES</p><br/>
@@ -97,9 +93,7 @@ function Home()
                         <Row className="justify-content-md-center">
                             <Col sm={12} className="d-flex justify-content-center my-auto">
                                 <Slide left >
-                                        <video  loop autoPlay width="90%" style={{paddingLeft:"0vw",paddingBottom:"5vw", borderRadius:"15px 15px 15px 15px"}}>
-                                            <source src= { Search } type="video/mp4" />Your browser does not support the video tag. Please upgrade your browser.
-                                        </video>
+                                        <img src="https://images.unsplash.com/photo-1526075419780-c636f80b1659?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="65%" style={{borderRadius:"15px 15px 15px 15px",paddingBottom:"4rem"}}/>
                                     </Slide>
                             </Col>
                         </Row>

@@ -1,6 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
-import {Row} from 'react-bootstrap'
+import {Row,Col} from 'react-bootstrap'
 import { makeStyles, useTheme } from '@material-ui/core/styles';
 import Drawer from '@material-ui/core/Drawer';
 import CssBaseline from '@material-ui/core/CssBaseline';
@@ -107,16 +107,18 @@ export default function Menu() {
         </div>
         <Divider className={classes.dividerColor}/>
         <List>
-        {["Home", "Stories","Our Team", "Contact Us" ].map((text, index) => (
-          <ListItem key={text} component={Link} to={"/" + text} style={{color:"black"}}>
-            <ListItemText primary={text}  />
-          </ListItem>
-        ))}
-      </List>
+            <Col sm={4}>
+                    <Link to="/"><Row style={{paddingLeft:"1.5vw",fontFamily:"Ubuntu",color:"black",paddingTop:"0.5vw"}}>Home</Row></Link>
+                    <Link to="/Stories"><Row style={{paddingLeft:"1.5vw",paddingTop:"1vw",fontFamily:"Ubuntu",color:"black"}}>Stories</Row></Link>
+                    <Link to="/OurTeam"><Row style={{paddingLeft:"1.5vw",paddingTop:"1vw",fontFamily:"Ubuntu",color:"black"}}>Our Team</Row> </Link>
+                    <Link to="/ContactUs"><Row style={{paddingLeft:"1.5vw",paddingTop:"1vw",fontFamily:"Ubuntu",color:"black"}}>Contact Us</Row></Link>
+                
+            </Col>
+        </List>
       <Row>
-          <p style={{paddingTop:"0.2vw",paddingLeft:"1.5vw",paddingRight:"0.2vw"}}><a href="https://www.instagram.com/thedatanecdotes/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png" width="60%" /></a> </p>
-          <p style={{paddingTop:"0.2vw",paddingRight:"0.5vw"}}><a href="https://www.linkedin.com/company/the-data-anecdotes/"><img src="https://img.icons8.com/fluent/30/4a90e2/linkedin.png" width="80%"/></a> </p>
-          <p style={{paddingTop:"0.2vw",paddingLeft:"0.2vw",paddingRight:"0.5vw"}}><a href="https://github.com/thedatanecdotes"><img src="https://img.icons8.com/fluent/30/000000/github.png" width="80%"/></a></p>
+          <p style={{paddingTop:"0.5vw",paddingLeft:"2.5vw",paddingRight:"0.2vw"}}><a href="https://www.instagram.com/thedatanecdotes/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png" width="60%" /></a> </p>
+          <p style={{paddingTop:"0.5vw",paddingRight:"0.5vw"}}><a href="https://www.linkedin.com/company/the-data-anecdotes/"><img src="https://img.icons8.com/fluent/30/4a90e2/linkedin.png" width="80%"/></a> </p>
+          <p style={{paddingTop:"0.5vw",paddingLeft:"0.2vw",paddingRight:"0.5vw"}}><a href="https://github.com/thedatanecdotes"><img src="https://img.icons8.com/fluent/30/000000/github.png" width="80%"/></a></p>
       </Row>
       </Drawer>
       <main

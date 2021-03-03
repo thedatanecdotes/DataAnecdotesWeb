@@ -4,7 +4,6 @@ import {Container, Row, Col,Card, Button,Navbar, Nav} from 'react-bootstrap';
 import Carousel from 'react-bootstrap/Carousel';
 import '../CSS/Stories.css';
 import Footer from "./Footer";
-import {Link} from "react-router-dom"
 import BackgroundParticle from "../background";
 import Navbarteam from '../NavBar'
 
@@ -33,8 +32,10 @@ function OurStories() {
                       />
                     </p>
                     <Carousel.Caption>
-                          <h3 style={{color:"black",fontWeight:"bolder"}}>2020's Pandemic: March vs December</h3>
-                          <Button className="button" variant="danger">See More</Button>
+                          <div className="pandemic">
+                            <p style={{color:"black",fontWeight:"bolder"}}>2020's Pandemic: March vs December</p>
+                          </div>
+                          <Button className="button" variant="danger" href="https://github.com/thedatanecdotes/2020MarchVDec">See More</Button>
                     </Carousel.Caption>
                   </Carousel.Item>
                   <Carousel.Item interval={1000}>
@@ -47,7 +48,8 @@ function OurStories() {
                         />
                     </p>
                     <Carousel.Caption>
-                      <h3 style={{color:"black", fontWeight:"bolder"}}>Project Search Bar</h3>
+                      <div className="pandemic">
+                      <p style={{color:"black", fontWeight:"bolder"}}>Project Search Bar</p></div>
                       <Button className="button" variant="danger" href="https://datanecdotes-psb.herokuapp.com/">Click to visit</Button>
                     </Carousel.Caption>
                 </Carousel.Item>
@@ -75,7 +77,7 @@ function OurStories() {
             <Card.Text style={{textAlign:"left"}}>
               Comparing the Pandemic's progress from the month it first hit India to December.
             </Card.Text>
-            <Button className="button" variant="danger">See More</Button>
+            <Button className="button" variant="danger" href="https://github.com/thedatanecdotes/2020MarchVDec">See More</Button>
           </Card.Body>
         </Card>
           </Col>
@@ -89,7 +91,7 @@ function OurStories() {
             <Card.Text style={{textAlign:"left"}}>
               The 2020 Farmers' Protest is an ongoing movement in India against the three farme bills passed in the session of Parliament in September 2020. 
             </Card.Text><br/>
-            <Button className="button" variant="danger">See More</Button>
+            <Button className="button" variant="danger" href="https://github.com/thedatanecdotes/FarmersProtest">See More</Button>
           </Card.Body>
         </Card>
           </Col>
