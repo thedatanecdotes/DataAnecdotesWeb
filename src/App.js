@@ -1,10 +1,5 @@
 import React, { useEffect } from 'react';
-import {
-    BrowserRouter as Router,
-    Switch,
-    Route,
-    useLocation ,
-  } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route, useLocation} from "react-router-dom";
 import Home from './LandingPage/home';
 import OurStories from './StorySection/Stories';
 import ContactForm from './ContactForm/contactform';
