@@ -13,18 +13,18 @@ We are a media website which combines data science with journalism to reach the 
 
 ## WEBSITE DETAILS
 
-- [Home Page](https://dscommunity.in)
+- [Home Page](https://thedatanecdotes.netlify.app/)
   Includes all the details about our website, project search bar and our way of coming up with new stories.
-- [Stories](https://dscommunity.in)
+- [Stories](https://thedatanecdotes.netlify.app/Stories)
   It is the star page of the website which features all of the latest stories. It shows the following :
    1) Unbiased analysis
    2) Pictorial representation of data received
    3) Tweet analysis throughout pivotal months pertaining to the specific topic
    4) Conclusion
-- [Our Team](https://dscommunity.in)
+- [Our Team](https://thedatanecdotes.netlify.app/OurTeam)
    Its the page you would want to visit to meet all the harworking, bright minds putting up amazing stories for you. 
   
-- [Contact Us](https://dscommunity.in) 
+- [Contact Us](https://thedatanecdotes.netlify.app/ContactUs) 
   Fill the form on this page if you want to reach out to us for feedback or getting your hands on the unbiased data analysis on topic of your choice.
   
 ## BUILT WITH
