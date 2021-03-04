@@ -15,4 +15,5 @@ We are a media website which combines data science with journalism to reach the 
 
 
 - [Home Page](https://dscommunity.in)
-  Includes all the details about the community and other pages.
+  Includes all the details about our website, project search bar and our way of coming up with new stories.
+  
