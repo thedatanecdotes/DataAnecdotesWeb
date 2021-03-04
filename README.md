@@ -74,7 +74,7 @@ Tarushi Pathak
 </tr>
 </table>
 
-### Contributors 
+## Contributors 
 
 
 
