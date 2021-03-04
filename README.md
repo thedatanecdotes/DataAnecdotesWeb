@@ -11,7 +11,7 @@ We are a media website which combines data science with journalism to reach the 
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](Documentation.md) 
 [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](Images/web_app.png)
 
-## Website Details
+## WEBSITE DETAILS
 
 
 - [Home Page](https://dscommunity.in)
@@ -29,3 +29,5 @@ We are a media website which combines data science with journalism to reach the 
   Fill the form on this page if you want to reach out to us for feedback or getting your hands on the unbiased data analysis on topic of your choice.
   <br>FOR PEOPLE ASKING WHO ARE ASKING FOR KRITI GANDOTRA'S NUMBER, WE WOULD LIKE TO SAY THAT WE DONT GIVE OUT NUMBERS OF CELEBRITIES. SORRY!! 
   If you are still very desperate, contact her on @therealkritigandotra - yes, she is REAL</br>
+## BUILT WITH
+  JavaScript <br>HTML</br><br>CSS</br><br>ReactJS</br>
