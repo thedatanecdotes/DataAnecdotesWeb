@@ -13,7 +13,6 @@ We are a media website which combines data science with journalism to reach the 
 
 ## WEBSITE DETAILS
 
-
 - [Home Page](https://dscommunity.in)
   Includes all the details about our website, project search bar and our way of coming up with new stories.
 - [Stories](https://dscommunity.in)
@@ -29,10 +28,15 @@ We are a media website which combines data science with journalism to reach the 
   Fill the form on this page if you want to reach out to us for feedback or getting your hands on the unbiased data analysis on topic of your choice.
   
 ## BUILT WITH
+
   JavaScript <br>HTML</br>CSS<br>ReactJS</br>BootStrap 4<br>Shell</br>
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+<h1 align="center"> Project Maintainers </h1>
+
+| Tables   |      Are      |
+|----------|:-------------:|
+| col 1 is |  left-aligned |
+| col 2 is |    centered   | 
+| col 3 is | right-aligned |
+| col 2 is |    centered   |
+| col 3 is | right-aligned |
