@@ -11,4 +11,8 @@ We are a media website which combines data science with journalism to reach the 
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](Documentation.md) 
 [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](Images/web_app.png)
 
-##Website Details
+## Website Details
+
+
+- [Home Page](https://dscommunity.in)
+  Includes all the details about the community, sponsors and other pages.
