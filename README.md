@@ -33,7 +33,7 @@ We are a media website which combines data science with journalism to reach the 
 
 ## PROJECT MAINTAINERS
 
-| Tables   |      Are      |
+| Name     |     Designation      |
 |----------|:-------------:|
 | col 1 is |  left-aligned |
 | col 2 is |    centered   | 
