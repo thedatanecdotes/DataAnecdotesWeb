@@ -22,10 +22,10 @@ We are a media website which combines data science with journalism to reach the 
    3) Tweet analysis throughout pivotal months pertaining to the specific topic
    4) Conclusion
 - [Our Team](https://thedatanecdotes.netlify.app/OurTeam)
-   Its the page you would want to visit to meet all the harworking, bright minds putting up amazing stories for you. 
+   It's the page you would want to visit to meet all the harworking, bright minds putting up amazing stories for you. 
   
 - [Contact Us](https://thedatanecdotes.netlify.app/ContactUs) 
-  Fill the form on this page if you want to reach out to us for feedback or getting your hands on the unbiased data analysis on topic of your choice.
+  Fill the form on this page if you want to reach out to us for feedback or for getting your hands on the unbiased data analysis featured on our website.
   
 ## BUILT WITH
 
