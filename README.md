@@ -24,4 +24,4 @@ We are a media website which combines data science with journalism to reach the 
    4) Conclusion
 - [Our Team](https://dscommunity.in)
    Its the page you would want to visit to meet all the harworking, bright minds putting up amazing stories for you. 
-   P.S. - KRITI GANDOTRA ROCKKKKSSSS!!!!
+   <br> P.S. - KRITI GANDOTRA ROCKKKKSSSS!!!!</br>
