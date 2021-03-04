@@ -31,7 +31,7 @@ We are a media website which combines data science with journalism to reach the 
 
   JavaScript <br>HTML</br>CSS<br>ReactJS</br>BootStrap 4<br>Shell</br>
 
-<h1 align="center"> Project Maintainers </h1>
+<h1> PROJECT MAINTAINERS </h1>
 
 | Tables   |      Are      |
 |----------|:-------------:|
