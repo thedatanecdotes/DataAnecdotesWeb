@@ -36,7 +36,6 @@ We are a media website which combines data science with journalism to reach the 
 | Names     | 
 |----------|
 | Tarushi Pathak |  
-   
 | Laxmi Anusri Patti | 
 | Purbasha Pan |   
 | Kriti Gandotra | 
