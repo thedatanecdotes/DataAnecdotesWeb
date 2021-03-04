@@ -124,5 +124,5 @@ Kriti Gandotra
 </tr>
 </table>
 
-## CONTRIBUTIONS
+## Open Source Contributions
 We warmly welcome contributions in form of PRs. :rocket:
