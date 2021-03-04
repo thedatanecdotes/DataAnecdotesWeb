@@ -30,3 +30,9 @@ We are a media website which combines data science with journalism to reach the 
   
 ## BUILT WITH
   JavaScript <br>HTML</br>CSS<br>ReactJS</br>BootStrap 4<br>Shell</br>
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
