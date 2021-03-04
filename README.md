@@ -16,4 +16,8 @@ We are a media website which combines data science with journalism to reach the 
 
 - [Home Page](https://dscommunity.in)
   Includes all the details about our website, project search bar and our way of coming up with new stories.
-  
+- [Stories](https://dscommunity.in)
+  It is the star page of the website which features all of the latest stories. It shows the following
+   1) Unbiased analysis
+   2) Pictorial representation of data received
+   3) Tweet analysis throughout pivotal months pertaining to the specific topic
