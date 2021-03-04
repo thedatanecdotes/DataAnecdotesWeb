@@ -33,10 +33,10 @@ We are a media website which combines data science with journalism to reach the 
 
 ## PROJECT MAINTAINERS
 
-| Name     |     Designation      |
-|----------|:-------------:|
-| col 1 is |  left-aligned |
-| col 2 is |    centered   | 
-| col 3 is | right-aligned |
-| col 2 is |    centered   |
-| col 3 is | right-aligned |
+| Name     | 
+|----------|
+| Tarushi Pathak |  
+| Kabir Nagpal |    
+| Laxmi Anusri Patti | 
+| Purbasha Pan |   
+| Kriti Gandotra | 
