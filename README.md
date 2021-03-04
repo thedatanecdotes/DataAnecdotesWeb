@@ -21,3 +21,7 @@ We are a media website which combines data science with journalism to reach the 
    1) Unbiased analysis
    2) Pictorial representation of data received
    3) Tweet analysis throughout pivotal months pertaining to the specific topic
+   4) Conclusion
+- [Our Team](https://dscommunity.in)
+   Its the page you would want to visit to meet all the harworking, bright minds putting up amazing stories for you. 
+   P.S. - KRITI GANDOTRA ROCKKKKSSSS!!!!
