@@ -39,3 +39,6 @@ We are a media website which combines data science with journalism to reach the 
 | Laxmi Anusri Patti | 
 | Purbasha Pan |   
 | Kriti Gandotra | 
+
+## CONTRIBUTIONS
+We warmly welcome contributions in form of PRs.
