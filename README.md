@@ -27,4 +27,5 @@ We are a media website which combines data science with journalism to reach the 
    <br> P.S. - KRITI GANDOTRA ROCKKKKSSSS!!!!</br>
 - [Contact Us](https://dscommunity.in) 
   Fill the form on this page if you want to reach out to us for feedback or getting your hands on the unbiased data analysis on topic of your choice.
-  <br>FOR PEOPLE ASKING WHO ARE ASKING FOR KRITI GANDOTRA'S NUMBER, WE WOULD LIKE TO SAY THAT WE DONT GIVE OUT NUMBERS OF CELEBRITIES. SORRY!!</br>
+  <br>FOR PEOPLE ASKING WHO ARE ASKING FOR KRITI GANDOTRA'S NUMBER, WE WOULD LIKE TO SAY THAT WE DONT GIVE OUT NUMBERS OF CELEBRITIES. SORRY!! 
+  If you are still very desperate, contact her on @therealkritigandotra - yes, she is REAL</br>
