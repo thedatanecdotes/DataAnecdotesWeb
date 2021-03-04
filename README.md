@@ -30,4 +30,4 @@ We are a media website which combines data science with journalism to reach the 
   <br>FOR PEOPLE ASKING WHO ARE ASKING FOR KRITI GANDOTRA'S NUMBER, WE WOULD LIKE TO SAY THAT WE DONT GIVE OUT NUMBERS OF CELEBRITIES. SORRY!! 
   If you are still very desperate, contact her on @therealkritigandotra - yes, she is REAL</br>
 ## BUILT WITH
-  JavaScript <br>HTML</br><br>CSS</br><br>ReactJS</br>
+  JavaScript <br>HTML</br>CSS
